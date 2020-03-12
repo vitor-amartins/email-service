@@ -10,3 +10,5 @@
 ## ✋🏻 Pré-requisitos
 
 - [Node.js](https://nodejs.org/en/)
+
+Baseado no [repositório](https://github.com/Rocketseat/masterclass-nodejs-background-jobs) da aula da Rocketseat
