@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/masterclass.png" width="120px" />
-</h1>
-
 <h3 align="center">
   Background jobs (filas) no Node.js com Bull
 </h3>
