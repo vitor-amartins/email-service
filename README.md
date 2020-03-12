@@ -13,4 +13,4 @@
 
 ## :warning: Créditos
 
-Baseado no [repositório](https://github.com/Rocketseat/masterclass-nodejs-background-jobs) da aula da Rocketseat
+- Baseado no [repositório](https://github.com/Rocketseat/masterclass-nodejs-background-jobs) da aula da Rocketseat
