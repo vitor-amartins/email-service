@@ -11,4 +11,6 @@
 
 - [Node.js](https://nodejs.org/en/)
 
+## :warning: Créditos
+
 Baseado no [repositório](https://github.com/Rocketseat/masterclass-nodejs-background-jobs) da aula da Rocketseat
